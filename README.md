@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis & Visualization
 - 🌱 I’m currently learning R - data science
 - 💞️ I’m looking to collaborate on Data teams
-- 📫 How to reach me email: isajugudum@gmail.org
+- 📫 How to reach me email: isajugudum@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dashboard
 
